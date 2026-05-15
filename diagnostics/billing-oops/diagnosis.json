@@ -1,0 +1,190 @@
+{
+  "startedAt": "2026-05-04T09:17:55.081Z",
+  "console": [
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 429 ()",
+      "location": {
+        "url": "https://o187357.ingest.sentry.io/api/6105995/envelope/?sentry_key=2f048d47322b403fba334a0710b834f0&sentry_version=7",
+        "lineNumber": 0,
+        "columnNumber": 0
+      }
+    }
+  ],
+  "pageErrors": [],
+  "failedRequests": [
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-276TKKJRCP&gtm=45je64t1v9174354090za200zd9174354090&_p=1777886280497&gcd=13l3l3l3l1l1&npa=0&dma=0&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=12&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=1&tag_exp=0~115938465~115938468~118289195&sid=1777886281&sct=1&seg=0&dl=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&dt=Assist.id&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=6336",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-ZG2R3VYSZM&gtm=45je64t1v9173915154za200zb9174354090zd9174354090&_p=1777886280497&gcd=13l3l3l3l1l1&npa=0&dma=0&_fid=d4ntoadKk2CrvCbVUgt9dd&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=13&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=1&tag_exp=0~115616985~115938465~115938468~118289195&sid=1777886282&sct=1&seg=0&dl=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&dt=Assist.id&en=page_view&_fv=1&_ss=1&_ee=1&ep.origin=firebase&tfd=7212",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-276TKKJRCP&gtm=45je64t1v9174354090za200zd9174354090&_p=1777886280497&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=12&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=2&tag_exp=0~115938465~115938468~118289195&sid=1777886281&sct=1&seg=0&dl=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&dt=Assist.id&en=scroll&epn.percent_scrolled=90&_et=168&tfd=7303",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-ZG2R3VYSZM&gtm=45je64t1v9173915154za200zb9174354090zd9174354090&_p=1777886280497&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&_fid=d4ntoadKk2CrvCbVUgt9dd&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=13&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-US&_s=2&tag_exp=0~115616985~115938465~115938468~118289195&sid=1777886282&sct=1&seg=0&dl=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&dt=Assist.id&en=device_info&_ee=1&ep.origin=firebase&ep.userAgent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F147.0.0.0%20Safari%2F537.36&ep.userAgentData=%5Bobject%20NavigatorUAData%5D&ep.platform=MacIntel&ep.connection=%5Bobject%20Object%5D&epn.deviceMemory=8&ep.vendor=Google%20Inc.&_et=7&tfd=10559",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-276TKKJRCP&gtm=45je64t1v9174354090za200zd9174354090&_p=1777886280497&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEEAAAQ&ae=a&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=12&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=3&tag_exp=0~115938465~115938468~118289195&sid=1777886281&sct=1&seg=0&dl=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&dt=Assist.id&en=form_start&ep.form_id=&ep.form_name=&ep.form_destination=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&epn.form_length=4&ep.first_field_id=username&ep.first_field_name=username&ep.first_field_type=text&epn.first_field_position=1&_et=786&tfd=12124",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-ZG2R3VYSZM&gtm=45je64t1v9173915154za200zb9174354090zd9174354090&_p=1777886280497&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&_fid=d4ntoadKk2CrvCbVUgt9dd&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=13&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&tag_exp=0~115616985~115938465~115938468~118289195&dl=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&sid=1777886282&sct=1&seg=0&dt=Assist.id&_s=3&tfd=15562",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-276TKKJRCP&gtm=45je64t1v9174354090za200zd9174354090&_p=1777886280497&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=12&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=4&tag_exp=0~115938465~115938468~118289195&dl=https%3A%2F%2Fdev-essensial.assist.id%2F&dr=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&sid=1777886281&sct=1&seg=1&dt=Assist.id&en=page_view&_et=4807&tfd=17128",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-ZG2R3VYSZM&gtm=45je64t1v9173915154za200zb9174354090zd9174354090&_p=1777886280497&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&_fid=d4ntoadKk2CrvCbVUgt9dd&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=13&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=4&tag_exp=0~115616985~115938465~115938468~118289195&sid=1777886282&sct=1&seg=1&dl=https%3A%2F%2Fdev-essensial.assist.id%2F&dt=Assist.id&en=user_engagement&ep.origin=firebase&_et=27788&tfd=38799",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://o.clarity.ms/collect",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-276TKKJRCP&gtm=45je64t1v9174354090za200zd9174354090&_p=1777886280497&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=12&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=5&tag_exp=0~115938465~115938468~118289195&sid=1777886281&sct=1&seg=1&dl=https%3A%2F%2Fdev-essensial.assist.id%2F&dr=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&dt=Assist.id&en=user_engagement&_et=26659&tfd=38791",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://o187357.ingest.sentry.io/api/6105995/envelope/?sentry_key=2f048d47322b403fba334a0710b834f0&sentry_version=7",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-276TKKJRCP&gtm=45je64t1v9174354090za200zd9174354090&_p=1777886314452&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=12&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=1&tag_exp=0~115616986~115938465~115938468~116363098&sid=1777886281&sct=1&seg=1&dl=https%3A%2F%2Fdev-essensial.assist.id%2Fsettings&dt=Assist.id&en=page_view&_ee=1&tfd=537",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-ZG2R3VYSZM&gtm=45je64t1v9173915154za200zb9174354090zd9174354090&_p=1777886314452&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&_fid=d4ntoadKk2CrvCbVUgt9dd&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=16&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=1&tag_exp=0~115938465~115938469~116363098~118128922&sid=1777886282&sct=1&seg=1&dl=https%3A%2F%2Fdev-essensial.assist.id%2Fsettings&dt=Assist.id&en=page_view&_ee=1&ep.origin=firebase&tfd=653",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-ZG2R3VYSZM&gtm=45je64t1v9173915154za200zb9174354090zd9174354090&_p=1777886314452&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&_fid=d4ntoadKk2CrvCbVUgt9dd&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=16&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-US&_s=2&tag_exp=0~115938465~115938469~116363098~118128922&sid=1777886282&sct=1&seg=1&dl=https%3A%2F%2Fdev-essensial.assist.id%2Fsettings&dt=Assist.id&en=device_info&_ee=1&ep.origin=firebase&ep.userAgent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F147.0.0.0%20Safari%2F537.36&ep.userAgentData=%5Bobject%20NavigatorUAData%5D&ep.platform=MacIntel&ep.connection=%5Bobject%20Object%5D&epn.deviceMemory=8&ep.vendor=Google%20Inc.&_et=2&tfd=5656",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-276TKKJRCP&gtm=45je64t1v9174354090za200zd9174354090&_p=1777886314452&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=12&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=2&tag_exp=0~115616986~115938465~115938468~116363098&sid=1777886281&sct=1&seg=1&dl=https%3A%2F%2Fdev-essensial.assist.id%2Fsettings&dt=Assist.id&en=scroll&epn.percent_scrolled=90&_et=4&tfd=5540",
+      "failure": "net::ERR_ABORTED"
+    }
+  ],
+  "suspiciousResponses": [
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Billings/getActiveBilling?hospitalId=673d4cd0603bf90969b4aadb",
+      "body": "{\"result\":{\"productName\":\"clinicaPro\",\"payment\":[{\"value\":10656000}],\"duration\":12,\"isPaidOff\":true,\"paidFee\":10656000,\"productIdx\":\"625e0b76ea6390e0f0f40577\",\"startSubs\":\"2025-10-11T13:18:29.163Z\",\"totalFee\":10656000,\"endSubs\":\"2026-10-11T13:18:29.163Z\",\"isActive\":true,\"realDateEnd\":\"2027-07-11T13:18:29.163Z\",\"status\":\"subscribe\",\"notifyRetention\":false,\"schedulaMaxAppoint\":50,\"nextProduct\":{\"productName\":\"clinicaPro\",\"payment\":[{\"value\":0}],\"duration\":9,\"isPaidOff\":false,\"paidFee\":0,\"productIdx\":\"625e0b76ea6390e0f0f40577\",\"startSubs\":\"2026-10-11T13:18:29.163Z\",\"totalFee\":7881000,\"endSubs\":\"2027-07-11T13:18:29.163Z\"}}}"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://dev-essensial.assist.id/vendors~Cashier~Office~RawatJalan~Registration~RegistrationV2~RjTopLeftMenu~Settings.2cfd71c7397116518ef1.chunk.js",
+      "body": ""
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Billings/getActiveBilling?hospitalId=673d4cd0603bf90969b4aadb",
+      "body": "{\"result\":{\"productName\":\"clinicaPro\",\"payment\":[{\"value\":10656000}],\"duration\":12,\"isPaidOff\":true,\"paidFee\":10656000,\"productIdx\":\"625e0b76ea6390e0f0f40577\",\"startSubs\":\"2025-10-11T13:18:29.163Z\",\"totalFee\":10656000,\"endSubs\":\"2026-10-11T13:18:29.163Z\",\"isActive\":true,\"realDateEnd\":\"2027-07-11T13:18:29.163Z\",\"status\":\"subscribe\",\"notifyRetention\":false,\"schedulaMaxAppoint\":50,\"nextProduct\":{\"productName\":\"clinicaPro\",\"payment\":[{\"value\":0}],\"duration\":9,\"isPaidOff\":false,\"paidFee\":0,\"productIdx\":\"625e0b76ea6390e0f0f40577\",\"startSubs\":\"2026-10-11T13:18:29.163Z\",\"totalFee\":7881000,\"endSubs\":\"2027-07-11T13:18:29.163Z\"}}}"
+    },
+    {
+      "status": 429,
+      "method": "POST",
+      "url": "https://o187357.ingest.sentry.io/api/6105995/envelope/?sentry_key=2f048d47322b403fba334a0710b834f0&sentry_version=7",
+      "body": "{\"detail\":\"Sentry dropped data due to a quota or internal rate limit being reached. This will not affect your application. See https://docs.sentry.io/product/accounts/quotas/ for more information.\"}"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://dev-essensial.assist.id/SettingsHeaderMenu.939f48c0a7effecbdc67.chunk.js",
+      "body": ""
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://dev-essensial.assist.id/SettingsHeaderTopLeftMenu.daa4f24933db101f60ff.chunk.js",
+      "body": ""
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://dev-essensial.assist.id/Settings.4e9a0a60f1bbb041d23f.chunk.js",
+      "body": ""
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://dev-essensial.assist.id/settings",
+      "body": "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\"><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"https://public-medicaboo.s3-ap-southeast-1.amazonaws.com/Kamarmedis.png\"><link rel=\"icon\" type=\"image/png\" href=\"https://public-medicaboo.s3-ap-southeast-1.amazonaws.com/Kamarmedis.png\" sizes=\"32x32\"><link rel=\"icon\" type=\"image/png\" href=\"https://public-medicaboo.s3-ap-southeast-1.amazonaws.com/Kamarmedis.png\" sizes=\"16x16\"><link rel=\"shortcut icon\" href=\"https://public-medicaboo.s3-ap-southeast-1.amazonaws.com/Kamarmedis.png\"><link rel=\"mask-icon\" href=\"icons/safari-pinned-tab.svg\" color=\"#0aa89e\"><link rel=\"manifest\" href=\"manifest.json\"><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,800,900\"><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"><link rel=\"stylesheet\" type=\"text/css\" charset=\"UTF-8\" href=\"https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css\"><link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css\"><link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/print-js/1.6.0/print.min.css\" integrity=\"sha512-zrPsLVYkdDha4rbMGgk9892aIBPeXti7W77FwOuOBV85bhRYi9Gh+gK+GWJzrUnaCiIEm7YfXOxW8rzYyTuI1A==\" crossorigin=\"anonymous\"><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin><link href=\"https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"_index.css\"><script src=\"papaparse.min.js\"></script><script src=\"pdfkit.js\"></script><script src=\"https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/pdfmake.min.js\" integrity=\"sha512-a9NgEEK7tsCvABL7KqtUTQjl69z7091EVPpw5KxPlZ93T141ffe1woLtbXTX+r2/8TtTvRX/v4zTL2UlMUPgwg==\" crossorigin=\"anonymous\"></script><script src=\"https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.js\"></script><script src=\"https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/vfs_fonts.min.js\" integrity=\"sha512-P0bOMePRS378NwmPDVPU455C/TuxDS+8QwJozdc7PGgN8kLqR4ems0U/3DeJkmiE31749vYWHvBOtR+37qDCZQ==\" crossorigin=\"anonymous\"></script><script src=\"https://cdn.jsdelivr.net/npm/chart.js\"></script><script async src=\"https://www.googletagmanager.com/gtag/js?id=G-276TKKJRCP\"></script><script type=\"module\" src=\"https://cdn.jsdelivr.net/npm/emoji-picker-element@^1/index.js\"></script><script>window.dataLayer = window.dataLayer || [];\n      function gtag(){dataLayer.push(arguments);}\n      gtag('js', new Date());\n\n      gtag('config', 'G-276TKKJRCP');</script><style>@media print {\n        .intercom-launcher {\n          display: none;\n        }\n      }</style><title>Assist.id</title></head><body><div id=\"root\"></div><div id=\"modal-root\"></div><script src=\"/vendors.f09ba31cdd7ced079e81.chunk.js\"></script><script src=\"/main.ef8173a5acf6d1554855.js\"></script></body></html>"
+    },
+    {
+      "status": 204,
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-276TKKJRCP&gtm=45je64t1v9174354090za200zd9174354090&_p=1777886314452&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=12&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=1&tag_exp=0~115616986~115938465~115938468~116363098&sid=1777886281&sct=1&seg=1&dl=https%3A%2F%2Fdev-essensial.assist.id%2Fsettings&dt=Assist.id&en=page_view&_ee=1&tfd=537",
+      "body": "<body unavailable>"
+    },
+    {
+      "status": 204,
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-ZG2R3VYSZM&gtm=45je64t1v9173915154za200zb9174354090zd9174354090&_p=1777886314452&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&_fid=d4ntoadKk2CrvCbVUgt9dd&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=16&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=1&tag_exp=0~115938465~115938469~116363098~118128922&sid=1777886282&sct=1&seg=1&dl=https%3A%2F%2Fdev-essensial.assist.id%2Fsettings&dt=Assist.id&en=page_view&_ee=1&ep.origin=firebase&tfd=653",
+      "body": "<body unavailable>"
+    },
+    {
+      "status": 204,
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-ZG2R3VYSZM&gtm=45je64t1v9173915154za200zb9174354090zd9174354090&_p=1777886314452&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&_fid=d4ntoadKk2CrvCbVUgt9dd&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=16&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-US&_s=2&tag_exp=0~115938465~115938469~116363098~118128922&sid=1777886282&sct=1&seg=1&dl=https%3A%2F%2Fdev-essensial.assist.id%2Fsettings&dt=Assist.id&en=device_info&_ee=1&ep.origin=firebase&ep.userAgent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F147.0.0.0%20Safari%2F537.36&ep.userAgentData=%5Bobject%20NavigatorUAData%5D&ep.platform=MacIntel&ep.connection=%5Bobject%20Object%5D&epn.deviceMemory=8&ep.vendor=Google%20Inc.&_et=2&tfd=5656",
+      "body": "<body unavailable>"
+    },
+    {
+      "status": 204,
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-276TKKJRCP&gtm=45je64t1v9174354090za200zd9174354090&_p=1777886314452&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&are=1&cid=1472959764.1777886282&frm=0&pscdl=noapi&rcb=12&sr=1440x900&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B147.0.7727.138%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=2&tag_exp=0~115616986~115938465~115938468~116363098&sid=1777886281&sct=1&seg=1&dl=https%3A%2F%2Fdev-essensial.assist.id%2Fsettings&dt=Assist.id&en=scroll&epn.percent_scrolled=90&_et=4&tfd=5540",
+      "body": "<body unavailable>"
+    }
+  ],
+  "urls": [
+    {
+      "step": "opened-login",
+      "url": "https://dev-essensial.assist.id/login"
+    },
+    {
+      "step": "after-login",
+      "url": "https://dev-essensial.assist.id/"
+    },
+    {
+      "step": "after-branch-check",
+      "url": "https://dev-essensial.assist.id/settings"
+    },
+    {
+      "step": "settings",
+      "url": "https://dev-essensial.assist.id/settings"
+    }
+  ],
+  "branchLoadWarning": "Setelah pilih cabang Kennedy, aplikasi masih stuck di fullscreen loader. Script coba lanjut langsung ke /settings.",
+  "scriptError": {
+    "message": "Tidak menemukan menu: Billing",
+    "stack": "Error: Tidak menemukan menu: Billing\n    at clickByTexts (/Users/user/Documents/GitHub/essensial/scripts/diagnose-billing-oops.js:33:9)\n    at async /Users/user/Documents/GitHub/essensial/scripts/diagnose-billing-oops.js:231:5"
+  },
+  "finishedAt": "2026-05-04T09:18:41.270Z"
+}
