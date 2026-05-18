@@ -1,0 +1,688 @@
+{
+  "startedAt": "2026-05-18T04:38:36.915Z",
+  "baseUrl": "https://dev-essensial.assist.id/",
+  "branch": "Pure Archer [Clinica Pro]",
+  "patientCount": 10001,
+  "downloads": {
+    "guide": {
+      "note": "Guide is generated client-side as a PDF Blob by showManualBook; headers/rules were extracted from the same frontend bundle after Blob download crashed headless Chromium."
+    }
+  },
+  "generatedCsv": {
+    "path": "/Users/user/Documents/GitHub/essensial/diagnostics/pure-archer-import-10000/PA-AI-Import-10001-patients.csv",
+    "sizeBytes": 3800814,
+    "firstDataRow": ",PA-AI-Import-00001,3174800000000001,1,Bandung,02/02/1971,,Katolik,\"Jl. QA Import No. 1, Kelurahan Automation\",10001,Menikah,Asuransi,,,Wiraswasta,Automation,Tag automation 00001,B,081270000001,pa.ai.import.00001@example.test,D3,Keluarga 00001,Saudara,2,AB,Guru,082160000001,keluarga.00001@example.test,Jl. Keluarga QA No. 1,Cilandak,Jakarta Selatan,DKI Jakarta,12430"
+  },
+  "upload": {},
+  "console": [
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 429 ()",
+      "location": {
+        "url": "https://o187357.ingest.sentry.io/api/6105995/envelope/?sentry_key=2f048d47322b403fba334a0710b834f0&sentry_version=7",
+        "lineNumber": 0,
+        "columnNumber": 0
+      }
+    },
+    {
+      "type": "warning",
+      "text": "stop",
+      "location": {
+        "url": "https://dev-essensial.assist.id/vendors.226c3615c1277edc4713.chunk.js",
+        "lineNumber": 5,
+        "columnNumber": 38015
+      }
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 429 ()",
+      "location": {
+        "url": "https://o187357.ingest.sentry.io/api/6105995/store/?sentry_key=2f048d47322b403fba334a0710b834f0&sentry_version=7",
+        "lineNumber": 0,
+        "columnNumber": 0
+      }
+    },
+    {
+      "type": "error",
+      "text": "Failed to create chart: can't acquire context from the given item",
+      "location": {
+        "url": "https://dev-essensial.assist.id/vendors.226c3615c1277edc4713.chunk.js",
+        "lineNumber": 5,
+        "columnNumber": 38015
+      }
+    },
+    {
+      "type": "warning",
+      "text": "stop",
+      "location": {
+        "url": "https://dev-essensial.assist.id/vendors.226c3615c1277edc4713.chunk.js",
+        "lineNumber": 5,
+        "columnNumber": 38015
+      }
+    },
+    {
+      "type": "warning",
+      "text": "Error CL001: Multiple Clarity tags detected.",
+      "location": {
+        "url": "https://dev-essensial.assist.id/vendors.226c3615c1277edc4713.chunk.js",
+        "lineNumber": 5,
+        "columnNumber": 38015
+      }
+    },
+    {
+      "type": "warning",
+      "text": "Zesta LiveChat widget is already initialized.",
+      "location": {
+        "url": "https://dev-essensial.assist.id/vendors.226c3615c1277edc4713.chunk.js",
+        "lineNumber": 5,
+        "columnNumber": 38015
+      }
+    }
+  ],
+  "pageErrors": [
+    {
+      "message": "r",
+      "stack": ""
+    },
+    {
+      "message": "r",
+      "stack": ""
+    },
+    {
+      "message": "Cannot read properties of undefined (reading 'unshift')",
+      "stack": "Uncaught TypeError: Cannot read properties of undefined (reading 'unshift')\n    at <anonymous> (https://www.clarity.ms/tag/ppfa47935u:0:325)\n    at <anonymous> (https://www.clarity.ms/tag/ppfa47935u:0:370)"
+    }
+  ],
+  "failedRequests": [
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-276TKKJRCP&gtm=45je65d0v9174354090za200zd9174354090&_p=1779079125673&gcd=13l3l3l3l1l1&npa=0&dma=0&are=1&cid=1857447346.1779079126&frm=0&pscdl=noapi&rcb=18&sr=1510x970&uaa=arm&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=1&tag_exp=0~115938465~115938468&sid=1779079125&sct=1&seg=0&dl=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&dt=Assist.id&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=7725",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-276TKKJRCP&gtm=45je65d0v9174354090za200zd9174354090&_p=1779079125673&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&are=1&cid=1857447346.1779079126&frm=0&pscdl=noapi&rcb=18&sr=1510x970&uaa=arm&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=2&tag_exp=0~115938465~115938468&sid=1779079125&sct=1&seg=0&dl=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&dt=Assist.id&en=scroll&epn.percent_scrolled=90&_et=10&tfd=12740",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-ZG2R3VYSZM&gtm=45je65d0v9173915154za200zb9174354090zd9174354090&_p=1779079125673&gcd=13l3l3l3l1l1&npa=0&dma=0&_fid=efZH56O4juIs18iKeY98k5&are=1&cid=1857447346.1779079126&frm=0&pscdl=noapi&rcb=10&sr=1510x970&uaa=arm&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=1&tag_exp=0~115938465~115938468&sid=1779079143&sct=1&seg=0&dl=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&dt=Assist.id&en=page_view&_fv=1&_ss=1&_ee=1&ep.origin=firebase&tfd=25101",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-ZG2R3VYSZM&gtm=45je65d0v9173915154za200zb9174354090zd9174354090&_p=1779079125673&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&_fid=efZH56O4juIs18iKeY98k5&are=1&cid=1857447346.1779079126&frm=0&pscdl=noapi&rcb=10&sr=1510x970&uaa=arm&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-US&_s=2&tag_exp=0~115938465~115938468&sid=1779079143&sct=1&seg=0&dl=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&dt=Assist.id&en=device_info&_ee=1&ep.origin=firebase&ep.userAgent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F147.0.7727.15%20Safari%2F537.36&ep.userAgentData=%5Bobject%20NavigatorUAData%5D&ep.platform=MacIntel&ep.connection=%5Bobject%20Object%5D&epn.deviceMemory=8&ep.vendor=Google%20Inc.&_et=7&tfd=29936",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-276TKKJRCP&gtm=45je65d0v9174354090za200zd9174354090&_p=1779079125673&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEEAAAQ&ae=a&are=1&cid=1857447346.1779079126&frm=0&pscdl=noapi&rcb=18&sr=1510x970&uaa=arm&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=3&tag_exp=0~115938465~115938468&sid=1779079125&sct=1&seg=1&dl=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&dt=Assist.id&en=form_start&ep.form_id=&ep.form_destination=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&epn.form_length=4&ep.first_field_id=username&ep.first_field_name=username&ep.first_field_type=text&epn.first_field_position=1&_et=19694&tfd=31352",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-ZG2R3VYSZM&gtm=45je65d0v9173915154za200zb9174354090zd9174354090&_p=1779079125673&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&_fid=efZH56O4juIs18iKeY98k5&are=1&cid=1857447346.1779079126&frm=0&pscdl=noapi&rcb=10&sr=1510x970&uaa=arm&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&tag_exp=0~115938465~115938468&dl=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&sid=1779079143&sct=1&seg=0&dt=Assist.id&_s=3&tfd=34937",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-276TKKJRCP&gtm=45je65d0v9174354090za200zd9174354090&_p=1779079125673&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&are=1&cid=1857447346.1779079126&frm=0&pscdl=noapi&rcb=18&sr=1510x970&uaa=arm&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=4&tag_exp=0~115938465~115938468&dl=https%3A%2F%2Fdev-essensial.assist.id%2F&dr=https%3A%2F%2Fdev-essensial.assist.id%2Flogin&sid=1779079125&sct=1&seg=1&dt=Assist.id&en=page_view&_et=3911&tfd=36400",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-ZG2R3VYSZM&gtm=45je65d0v9173915154za200zb9174354090zd9174354090&_p=1779079125673&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&_fid=efZH56O4juIs18iKeY98k5&are=1&cid=1857447346.1779079126&frm=0&pscdl=noapi&rcb=10&sr=1510x970&uaa=arm&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&tag_exp=0~115938465~115938468&dl=https%3A%2F%2Fdev-essensial.assist.id%2Fsettings&sid=1779079143&sct=1&seg=1&dt=Assist.id&_s=4&tfd=40551",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-276TKKJRCP&gtm=45je65d0v9174354090za200zd9174354090&_p=1779079125673&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&are=1&cid=1857447346.1779079126&frm=0&pscdl=noapi&rcb=18&sr=1510x970&uaa=arm&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=5&tag_exp=0~115938465~115938468&dl=https%3A%2F%2Fdev-essensial.assist.id%2Fsettings&dr=https%3A%2F%2Fdev-essensial.assist.id%2F&sid=1779079125&sct=1&seg=1&dt=Assist.id&en=page_view&_et=8110&tfd=44465",
+      "failure": "net::ERR_ABORTED"
+    }
+  ],
+  "apiResponses": [
+    {
+      "status": 200,
+      "method": "POST",
+      "url": "https://api-dev-essensial.assist.id/api/Externals/loginV2"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigAccounts/getNewFeatureFlag?userId=69fc0e29ad92805df724897d&hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigs?filter=%7B%22where%22:%7B%22hospitalId%22:%2269f9acc713dd51970dabccf1%22%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Billings/getActiveBilling?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Rumahsakits/getHospitalDetail?id=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/getTotalPatientInfo?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/superapps/income?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Pasiens/countNewPatient?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/getAvgTime?filter=%7B%22hospitalId%22:%2269f9acc713dd51970dabccf1%22%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KPolis?filter=%7B%22where%22:%7B%22hospitalId%22:%2269f9acc713dd51970dabccf1%22,%22isDeleted%22:%7B%22exists%22:false%7D%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Billings/getActiveBilling?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/superapps/outcome?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigs/getBanner?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KProcedures?filter=%7B%22where%22:%7B%22hospitalId%22:%2269f9acc713dd51970dabccf1%22%7D,%22skip%22:%220%22,+%22limit%22:%221%22%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Pasiens/countAllPatient?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KMedicineStocks?filter=%7B%22where%22:%7B%22hospitalId%22:%2269f9acc713dd51970dabccf1%22%7D,%22skip%22:%220%22,+%22limit%22:%221%22%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Masyarakats/bannerPolicies"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KDictionaries?filter=%7B%22where%22:%7B%22type%22:%22roleAction%22,%22or%22:[%7B%22isLocal%22:true,%22extra.hospitalId%22:%2269f9acc713dd51970dabccf1%22%7D,%7B%22isLocal%22:false%7D]%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KTxes/getMedDashboard?filter=%7B%22hospitalId%22:%2269f9acc713dd51970dabccf1%22,%22date%22:%222026-05-18%22%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Domisilis/provinsi"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/MetodePembayarans/getAll"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigs?filter=%7B%22where%22:%7B%22hospitalId%22:%2269f9acc713dd51970dabccf1%22,%22type%22:%22rs%22%7D,%22include%22:%7B%22relation%22:%22Accounts%22,%22scope%22:%7B%22include%22:%7B%22relation%22:%22Confidentials%22,%22scope%22:%7B%22fields%22:%7B%22email%22:true,%22id%22:true,%22hp%22:true%7D%7D%7D%7D%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigs/mapAddOnsV2?hospitalId=69f9acc713dd51970dabccf1&limit=100&page=1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/AssistPlus/get-flag?hospitalId=69f9acc713dd51970dabccf1&type=onlinePrescription&_=1779079148373"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigs/getConfigFromPanela?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Externals/getAllUnreadChat?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Rumahsakits?filter=%7B%22where%22:%7B%22id%22:%2269f9acc713dd51970dabccf1%22%7D,%22include%22:[%7B%22relation%22:%22Prakteks%22,%22scope%22:%7B%22include%22:[%22Dokters%22],%22where%22:%7B%22isDelete%22:%7B%22neq%22:true%7D%7D%7D%7D,%22MetodePembayarans%22,%22FasilitasRss%22]%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Rumahsakits/getCampaigns?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Rumahsakits/getTrainings?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KPolis?filter=%7B%22where%22:%7B%22hospitalId%22:%2269f9acc713dd51970dabccf1%22,%22isDeleted%22:%7B%22exists%22:false%7D%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Rumahsakits?filter=%7B%22where%22:%7B%22id%22:%2269f9acc713dd51970dabccf1%22%7D,%22include%22:[%7B%22relation%22:%22Prakteks%22,%22scope%22:%7B%22include%22:[%22Dokters%22],%22where%22:%7B%22isDelete%22:%7B%22neq%22:true%7D%7D%7D%7D,%22MetodePembayarans%22,%22FasilitasRss%22]%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KPolis?filter=%7B%22where%22:%7B%22hospitalId%22:%2269f9acc713dd51970dabccf1%22,%22isDeleted%22:%7B%22exists%22:false%7D%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/getOverviewAppointment?hospitalId=69f9acc713dd51970dabccf1&poli=Umum&bpjsVisit=Kunjungan+Sakit&range=Bulan"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Rumahsakits?filter=%7B%22where%22:%7B%22id%22:%2269f9acc713dd51970dabccf1%22%7D,%22include%22:[%7B%22relation%22:%22Prakteks%22,%22scope%22:%7B%22include%22:[%22Dokters%22],%22where%22:%7B%22isDelete%22:%7B%22neq%22:true%7D%7D%7D%7D,%22MetodePembayarans%22,%22FasilitasRss%22]%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Pasiens/countNewPatient?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/getTotalPatientInfo?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Pasiens/countAllPatient?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/superapps/income?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigs/getBanner?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/superapps/outcome?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/getAvgTime?filter=%7B%22hospitalId%22:%2269f9acc713dd51970dabccf1%22%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KPolis?filter=%7B%22where%22:%7B%22hospitalId%22:%2269f9acc713dd51970dabccf1%22,%22isDeleted%22:%7B%22exists%22:false%7D%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KTxes/getMedDashboard?filter=%7B%22hospitalId%22:%2269f9acc713dd51970dabccf1%22,%22date%22:%222026-05-18%22%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/list-appointment-oa?hospitalId=69f9acc713dd51970dabccf1&status=pending"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/list-appointment-oa?hospitalId=69f9acc713dd51970dabccf1&status=confirmed"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/countAppointmentsForGoLive?hospitalId=69f9acc713dd51970dabccf1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/getOverviewAppointment?hospitalId=69f9acc713dd51970dabccf1&poli=Umum&bpjsVisit=Kunjungan+Sakit&range=Bulan"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Masyarakats/getMasyarakatDetail"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KProcedures?filter=%7B%22where%22:%7B%22hospitalId%22:%2269fd8e16736ffcbc7cf090b3%22%7D,%22skip%22:%220%22,+%22limit%22:%221%22%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KMedicineStocks?filter=%7B%22where%22:%7B%22hospitalId%22:%2269fd8e16736ffcbc7cf090b3%22%7D,%22skip%22:%220%22,+%22limit%22:%221%22%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigAccounts/getNewFeatureFlag?userId=69fc0e29ad92805df724897d&hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Rumahsakits?filter=%7B%22where%22:%7B%22id%22:%2269fd8e16736ffcbc7cf090b3%22%7D,%22include%22:[%7B%22relation%22:%22Prakteks%22,%22scope%22:%7B%22include%22:[%22Dokters%22],%22where%22:%7B%22isDelete%22:%7B%22neq%22:true%7D%7D%7D%7D,%22MetodePembayarans%22,%22FasilitasRss%22]%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigs?filter=%7B%22where%22:%7B%22hospitalId%22:%2269fd8e16736ffcbc7cf090b3%22,%22type%22:%22rs%22%7D,%22include%22:%7B%22relation%22:%22Accounts%22,%22scope%22:%7B%22include%22:%7B%22relation%22:%22Confidentials%22,%22scope%22:%7B%22fields%22:%7B%22email%22:true,%22id%22:true,%22hp%22:true%7D%7D%7D%7D%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigs/getConfigFromPanela?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigs?filter=%7B%22where%22:%7B%22hospitalId%22:%2269fd8e16736ffcbc7cf090b3%22%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Rumahsakits?filter=%7B%22where%22:%7B%22id%22:%2269fd8e16736ffcbc7cf090b3%22%7D,%22include%22:[%7B%22relation%22:%22Prakteks%22,%22scope%22:%7B%22include%22:[%22Dokters%22],%22where%22:%7B%22isDelete%22:%7B%22neq%22:true%7D%7D%7D%7D,%22MetodePembayarans%22,%22FasilitasRss%22]%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/MetodePembayarans/getAll"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Domisilis/provinsi"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Masyarakats/bannerPolicies"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Billings/getActiveBilling?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KPolis?filter=%7B%22where%22:%7B%22hospitalId%22:%2269fd8e16736ffcbc7cf090b3%22,%22isDeleted%22:%7B%22exists%22:false%7D%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KDictionaries?filter=%7B%22where%22:%7B%22type%22:%22roleAction%22,%22or%22:[%7B%22isLocal%22:true,%22extra.hospitalId%22:%2269fd8e16736ffcbc7cf090b3%22%7D,%7B%22isLocal%22:false%7D]%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/AssistPlus/get-flag?hospitalId=69fd8e16736ffcbc7cf090b3&type=onlinePrescription&_=1779079153222"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Rumahsakits?filter=%7B%22where%22:%7B%22id%22:%2269fd8e16736ffcbc7cf090b3%22%7D,%22include%22:[%7B%22relation%22:%22Prakteks%22,%22scope%22:%7B%22include%22:[%22Dokters%22],%22where%22:%7B%22isDelete%22:%7B%22neq%22:true%7D%7D%7D%7D,%22MetodePembayarans%22,%22FasilitasRss%22]%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Rumahsakits/getCampaigns?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Rumahsakits/getTrainings?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Externals/getAllUnreadChat?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Masyarakats/bannerPolicies"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Billings/getActiveBilling?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KPolis?filter=%7B%22where%22:%7B%22hospitalId%22:%2269fd8e16736ffcbc7cf090b3%22,%22isDeleted%22:%7B%22exists%22:false%7D%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigs/mapAddOnsV2?hospitalId=69fd8e16736ffcbc7cf090b3&limit=100&page=1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KDictionaries?filter=%7B%22where%22:%7B%22type%22:%22roleAction%22,%22or%22:[%7B%22isLocal%22:true,%22extra.hospitalId%22:%2269fd8e16736ffcbc7cf090b3%22%7D,%7B%22isLocal%22:false%7D]%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KPolis?filter=%7B%22where%22:%7B%22hospitalId%22:%2269fd8e16736ffcbc7cf090b3%22,%22isDeleted%22:%7B%22exists%22:false%7D%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Billings/getActiveBilling?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Rumahsakits?filter=%7B%22where%22:%7B%22id%22:%2269fd8e16736ffcbc7cf090b3%22%7D,%22include%22:[%7B%22relation%22:%22Prakteks%22,%22scope%22:%7B%22include%22:[%22Dokters%22],%22where%22:%7B%22isDelete%22:%7B%22neq%22:true%7D%7D%7D%7D,%22MetodePembayarans%22,%22FasilitasRss%22]%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Rumahsakits/getTrainings?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Rumahsakits/getCampaigns?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Externals/getAllUnreadChat?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigs/mapAddOnsV2?hospitalId=69fd8e16736ffcbc7cf090b3&limit=100&page=1"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KPolis?filter=%7B%22where%22:%7B%22hospitalId%22:%2269fd8e16736ffcbc7cf090b3%22,%22isDeleted%22:%7B%22exists%22:false%7D%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/getAvgTime?filter=%7B%22hospitalId%22:%2269fd8e16736ffcbc7cf090b3%22%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/superapps/income?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Pasiens/countAllPatient?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Pasiens/countNewPatient?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigs/getBanner?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/list-appointment-oa?hospitalId=69fd8e16736ffcbc7cf090b3&status=confirmed"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/superapps/outcome?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KTxes/getMedDashboard?filter=%7B%22hospitalId%22:%2269fd8e16736ffcbc7cf090b3%22,%22date%22:%222026-05-18%22%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/list-appointment-oa?hospitalId=69fd8e16736ffcbc7cf090b3&status=pending"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/getTotalPatientInfo?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/countAppointmentsForGoLive?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/getOverviewAppointment?hospitalId=69fd8e16736ffcbc7cf090b3&poli=Umum&bpjsVisit=Kunjungan+Sakit&range=Bulan"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Janjis/countAppointmentsForGoLive?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KConfigs/69fd8d68736ffcbc7cf090b1?filter=%7B%22fields%22:%7B%22isDataEntry%22:true%7D%7D"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/KStockDepots/getName?hospitalId=69fd8e16736ffcbc7cf090b3"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "https://api-dev-essensial.assist.id/api/Prakteks/getPrakteksRs?data=F2ec3jIZo%2FBV0wLq3y4L4%2BETUUfP6RU5poHul%2BAm8uMD4%2BNpvUBDl6GhkdslUw3fkp6wmGphKeCXt6ayt7rYTKaSgoOUjvS8xJzEsVI68zE%3D"
+    }
+  ],
+  "branchBeforeSwitch": {
+    "url": "https://dev-essensial.assist.id/",
+    "bodySnippet": "🎉 Segera Aktifkan akun Anda untuk nikmati fitur tanpa hambatan\nGo Live\nPure Clyde [Lite]\nDashboard\n\n\nPure Clyde [Lite]\n\nFaktur Pajak tidak dapat diterbitkan jika data Request Faktur Pajak tidak dilengkapi sebelum tanggal 10 Juni 2026. Penerbitan faktur tidak bisa backdate.\n\nRequest Faktur Pajak\nPendapatan Bulan Ini\nRp0\n \n0%\n\ndari April\n\nPengeluaran Bulan Ini\nRp0\n \n0%\n\ndari April\n\n​\nKunjungan Sakit\n​\nUmum\n​\nBulan\n0\n \n0%\n\ndari Bulan lalu\n\nRasakan Kemudahan Booking Online Terintegrasi\n\nUbah antrean manual yang menumpuk menjadi booking online yang langsung terhubung ke sistem faskes dengan \n\nAktifkan AssistMe\nTotal Kunjungan\nTidak Terhubung BPJS\n\n0\n\nPasien\n\n\tRawat Jalan\t0\n\n\tRawat Inap\t0\n\n\tKunjungan Sehat\t0\n\n\tApotek\t0\nRata-Rata\nWaktu Tunggu Dokter\n0 m 0 s\n \n0%\n\ndari April\n\nPasien Baru\n0\n \n0%\n\ndari April\n\nPasien Terdaftar\n0\n \n0%\n\ndari April\n\nRata-Rata\nWaktu Konsultasi\n0 m 0 s\n \n0%\n\ndari April\n\nStok Menipis\n0\n \nRata-Rata\nWaktu Tunggu Apotek\n0 m 0 s\n \n0%\n\ndari April\n\nAssist.id\nBaru",
+    "storage": {
+      "local": {
+        "token": "AobMxRgIVBFHDUtxDSTFVDLqpMHt6FpEK7EUBl65qvRGCkejUiJ5ND7JEyK2ttGx"
+      },
+      "session": {}
+    }
+  },
+  "branchMenuSnippet": "🎉 Segera Aktifkan akun Anda untuk nikmati fitur tanpa hambatan\nGo Live\nPure Clyde [Lite]\nDashboard\n\n\nPure Clyde [Lite]\n\nFaktur Pajak tidak dapat diterbitkan jika data Request Faktur Pajak tidak dilengkapi sebelum tanggal 10 Juni 2026. Penerbitan faktur tidak bisa backdate.\n\nRequest Faktur Pajak\nPendapatan Bulan Ini\nRp0\n \n0%\n\ndari April\n\nPengeluaran Bulan Ini\nRp0\n \n0%\n\ndari April\n\n​\nKunjungan Sakit\n​\nUmum\n​\nBulan\n0\n \n0%\n\ndari Bulan lalu\n\nRasakan Kemudahan Booking Online Terintegrasi\n\nUbah antrean manual yang menumpuk menjadi booking online yang langsung terhubung ke sistem faskes dengan \n\nAktifkan AssistMe\nTotal Kunjungan\nTidak Terhubung BPJS\n\n0\n\nPasien\n\n\tRawat Jalan\t0\n\n\tRawat Inap\t0\n\n\tKunjungan Sehat\t0\n\n\tApotek\t0\nRata-Rata\nWaktu Tunggu Dokter\n0 m 0 s\n \n0%\n\ndari April\n\nPasien Baru\n0\n \n0%\n\ndari April\n\nPasien Terdaftar\n0\n \n0%\n\ndari April\n\nRata-Rata\nWaktu Konsultasi\n0 m 0 s\n \n0%\n\ndari April\n\nStok Menipis\n0\n \nRata-Rata\nWaktu Tunggu Apotek\n0 m 0 s\n \n0%\n\ndari April\n\nAssist.id\nBaru\n001583 - Pure Clyde [Lite] (QA)\n001468 - Kaiden Clinic [Clinica] (QA)\n001587 - Pure Blair [Clinica] (QA)\n001594 - Pure Archer [Clinica Pro] (QA)\n001652 - Pure Burns [Schedula] (QA)\nTambah Akun",
+  "branchAfterSwitch": {
+    "url": "https://dev-essensial.assist.id/",
+    "bodySnippet": "🎉 Segera Aktifkan akun Anda untuk nikmati fitur tanpa hambatan\nGo Live\nPure Archer [Clinica Pro]\nDashboard\n\n\nPure Archer [Clinica Pro]\n\nFaktur Pajak tidak dapat diterbitkan jika data Request Faktur Pajak tidak dilengkapi sebelum tanggal 10 Juni 2026. Penerbitan faktur tidak bisa backdate.\n\nRequest Faktur Pajak\nPendapatan Bulan Ini\nRp1.510.100\n \n0%\n\ndari April\n\nPengeluaran Bulan Ini\nRp0\n \n0%\n\ndari April\n\n​\nKunjungan Sakit\n​\nUmum\n​\nBulan\n4\n \n0%\n\ndari Bulan lalu\n\nRasakan Kemudahan Booking Online Terintegrasi\n\nUbah antrean manual yang menumpuk menjadi booking online yang langsung terhubung ke sistem faskes dengan \n\nAktifkan AssistMe\nTotal Kunjungan\nTerhubung BPJS\n\n11\n\nPasien\n\n\tRawat Jalan\t4\n\n\tRawat Inap\t2\n\n\tKunjungan Sehat\t0\n\n\tApotek\t5\nRata-Rata\nWaktu Tunggu Dokter\n0 m 3 s\n \n0%\n\ndari April\n\nPasien Baru\n2\n \n0%\n\ndari April\n\nPasien Terdaftar\n2\n \n100%\n\ndari April\n\nRata-Rata\nWaktu Konsultasi\n1445 m 14 s\n \n0%\n\ndari April\n\nStok Menipis\n1\n \nRata-Rata\nWaktu Tunggu Apotek\n0 m 0 s\n \n0%\n\ndari April\n\nAssist.id\nBaru",
+    "storage": {
+      "local": {
+        "token": "AobMxRgIVBFHDUtxDSTFVDLqpMHt6FpEK7EUBl65qvRGCkejUiJ5ND7JEyK2ttGx"
+      },
+      "session": {}
+    }
+  },
+  "template": {
+    "path": "frontend-bundle:data_pasien_assist.id_v3",
+    "headers": [
+      "id",
+      "nama_lengkap",
+      "no_ktp",
+      "jenis_kelamin",
+      "tempat_kelahiran",
+      "tanggal_lahir",
+      "nomor_mr",
+      "agama",
+      "alamat",
+      "kode_pos",
+      "status",
+      "nama_metode_pembayaran_1",
+      "tipe_metode_pembayaran_1",
+      "nomor_metode_pembayaran_1",
+      "pekerjaan",
+      "nama_tags_1",
+      "deskripsi_tags_1",
+      "golongan_darah",
+      "nomor_hp",
+      "email",
+      "pendidikan",
+      "nama_keluarga_1",
+      "hubungan_keluarga_1",
+      "jenis_kelamin_keluarga_1",
+      "golongan_darah_keluarga_1",
+      "pekerjaan_keluarga_1",
+      "nomor_hp_keluarga_1",
+      "email_keluarga_1",
+      "alamat_keluarga_1",
+      "kecamatan_keluarga_1",
+      "kabupaten_keluarga_1",
+      "provinsi_keluarga_1",
+      "kode_pos_keluarga_1"
+    ]
+  },
+  "error": {
+    "message": "page.waitForEvent: Timeout 30000ms exceeded while waiting for event \"filechooser\"\n=========================== logs ===========================\nwaiting for event \"filechooser\"\n============================================================",
+    "stack": "page.waitForEvent: Timeout 30000ms exceeded while waiting for event \"filechooser\"\n=========================== logs ===========================\nwaiting for event \"filechooser\"\n============================================================\n    at uploadCsv (/Users/user/Documents/GitHub/essensial/scripts/import-pure-archer-10000.js:322:10)\n    at /Users/user/Documents/GitHub/essensial/scripts/import-pure-archer-10000.js:82:11"
+  }
+}
